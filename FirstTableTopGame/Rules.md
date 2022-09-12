@@ -1,5 +1,3 @@
-Game Link: https://playingcards.io/7za4wm 
-
 # Rules
 ### GOAL
 Be the first player to fulfill their goal card.
