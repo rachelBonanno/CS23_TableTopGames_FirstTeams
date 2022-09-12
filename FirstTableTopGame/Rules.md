@@ -29,3 +29,13 @@ Be the first player to fulfill their goal card.
 
 ### HOW TO WIN
 - Once you collect all the resources to fulfill your goal card, you can immediately show your goal/resources to verify your victory and shout your victory phrase??? 
+
+# Cards
+### Goal Cards
+
+### Resource Cards
+
+### Event Cards
+
+### Back of Deck
+
