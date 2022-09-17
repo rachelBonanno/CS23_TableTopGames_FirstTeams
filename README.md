@@ -1,9 +1,10 @@
 # CS-23 Game Design
 
-## Game Name
+## Craftiest Craft
 HW1 - Table Top Game [Sept 5-13, 2022]
 - **Game Link:** https://playingcards.io/7za4wm 
 - **Rules:** https://github.com/rachelBonanno/CS23/blob/main/FirstTableTopGame/Rules.md
-## Chaios Creator
+## Chaios Craft
 HW1 - Table Top Game [Sept 13-20, 2022]
-
+- **Game Link:** https://playingcards.io/7esrze
+- **Rules:** https://docs.google.com/document/d/1HnSCRHoPu5MwJtjQpqEn4c0uS0VIvbXVkyRVDPT6g9M/edit
